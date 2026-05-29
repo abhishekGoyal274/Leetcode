@@ -12,6 +12,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/abhishekGoyal274/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekGoyal274/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekGoyal274/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekGoyal274/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
