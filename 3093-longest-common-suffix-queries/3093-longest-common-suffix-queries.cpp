@@ -1,64 +1,78 @@
-class Solution {
-    struct TrieNode {
-        int children[26];
-        int bestLen;
-        int bestIdx;
-        
-        TrieNode() {
-            fill(begin(children), end(children), -1);
-            bestLen = 1e9;
-            bestIdx = 1e9;
-        }
-    };
+#include <vector>
+#include <string>
+#include <climits>
+#include <unordered_map>
 
+using namespace std;
+
+class Solution {
 public:
     vector<int> stringIndices(vector<string>& wordsContainer, vector<string>& wordsQuery) {
-        vector<TrieNode> trie;
-        trie.emplace_back();
+        int n = wordsContainer.size();
+        int m = wordsQuery.size();
         
-        for (int i = 0; i < wordsContainer.size(); i++) {
-            int len = wordsContainer[i].length();
-            int curr = 0;
+        // Track the overall global fallback (shortest word, lowest index)
+        int rootMinLen = INT_MAX;
+        int rootIndex = INT_MAX;
+        
+        // Maps a suffix hash -> index of the best word in wordsContainer
+        unordered_map<size_t, int> suffixMap;
+        
+        // Custom string hasher to create unique keys for suffixes
+        hash<string_view> SVHasher;
+
+        for (int i = 0; i < n; i++) {
+            const string& word = wordsContainer[i];
+            int len = word.length();
             
-            if (len < trie[curr].bestLen || (len == trie[curr].bestLen && i < trie[curr].bestIdx)) {
-                trie[curr].bestLen = len;
-                trie[curr].bestIdx = i;
+            // Update global fallback
+            if (len < rootMinLen) {
+                rootMinLen = len;
+                rootIndex = i;
             }
             
+            // Generate all suffixes of this word from right to left
+            // Using string_view avoids duplicating/copying the string data!
+            string_view sv(word);
             for (int j = len - 1; j >= 0; j--) {
-                int charIdx = wordsContainer[i][j] - 'a';
+                string_view suffix = sv.substr(j);
+                size_t h = SVHasher(suffix);
                 
-                if (trie[curr].children[charIdx] == -1) {
-                    trie[curr].children[charIdx] = trie.size();
-                    trie.emplace_back();
-                }
-                
-                curr = trie[curr].children[charIdx];
-                
-                if (len < trie[curr].bestLen || (len == trie[curr].bestLen && i < trie[curr].bestIdx)) {
-                    trie[curr].bestLen = len;
-                    trie[curr].bestIdx = i;
+                if (suffixMap.find(h) == suffixMap.end()) {
+                    suffixMap[h] = i;
+                } else {
+                    int existingIdx = suffixMap[h];
+                    // Tie-breaking: shorter length first, then smaller index
+                    if (len < wordsContainer[existingIdx].length()) {
+                        suffixMap[h] = i;
+                    }
                 }
             }
         }
         
         vector<int> ans;
-        ans.reserve(wordsQuery.size());
+        ans.reserve(m);
         
-        for (const string& query : wordsQuery) {
-            int curr = 0;
+        for (int i = 0; i < m; i++) {
+            const string& query = wordsQuery[i];
             int len = query.length();
+            string_view sv(query);
             
-            for (int j = len - 1; j >= 0; j--) {
-                int charIdx = query[j] - 'a';
-                if (trie[curr].children[charIdx] == -1) {
-                    break;
+            int bestIndex = rootIndex; // Fallback default
+            
+            // Search from longest possible suffix down to single char suffix
+            for (int j = 0; j < len; j++) {
+                string_view suffix = sv.substr(j);
+                size_t h = SVHasher(suffix);
+                
+                if (suffixMap.find(h) != suffixMap.end()) {
+                    bestIndex = suffixMap[h];
+                    break; // Found the longest matching suffix, we can stop!
                 }
-                curr = trie[curr].children[charIdx];
             }
-            ans.push_back(trie[curr].bestIdx);
+            ans.push_back(bestIndex);
         }
         
         return ans;
     }
-}; 
+};
