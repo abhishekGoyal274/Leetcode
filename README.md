@@ -35,6 +35,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishekGoyal274/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -79,4 +80,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/abhishekGoyal274/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
