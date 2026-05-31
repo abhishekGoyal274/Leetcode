@@ -3,10 +3,12 @@ public:
     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
         bool ans{true};
         sort(asteroids.begin(), asteroids.end());
-        long long m = mass;
         for(auto asteroid: asteroids){
-            if(m >= asteroid) m += asteroid;
-            else if(m >= 1'00'000) return true;
+            if(mass >= asteroid) {
+                int sub = INT_MAX - mass;
+                if(asteroid >= sub) return true;
+                mass += asteroid;
+            }
             else return false;
         }
         return ans;
