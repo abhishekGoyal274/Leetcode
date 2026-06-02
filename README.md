@@ -9,6 +9,7 @@
 | [1340-jump-game-v](https://github.com/abhishekGoyal274/Leetcode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekGoyal274/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/abhishekGoyal274/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishekGoyal274/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekGoyal274/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/abhishekGoyal274/Leetcode/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/abhishekGoyal274/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishekGoyal274/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/abhishekGoyal274/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishekGoyal274/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
