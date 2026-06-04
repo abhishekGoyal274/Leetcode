@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/abhishekGoyal274/Leetcode/tree/master/1340-jump-game-v) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekGoyal274/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
