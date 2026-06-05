@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/abhishekGoyal274/Leetcode/tree/master/1340-jump-game-v) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekGoyal274/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
