@@ -10,6 +10,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekGoyal274/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/abhishekGoyal274/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishekGoyal274/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekGoyal274/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekGoyal274/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekGoyal274/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekGoyal274/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekGoyal274/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,10 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekGoyal274/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekGoyal274/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekGoyal274/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishekGoyal274/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
