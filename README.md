@@ -113,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekGoyal274/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekGoyal274/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekGoyal274/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Enumeration
@@ -150,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekGoyal274/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
