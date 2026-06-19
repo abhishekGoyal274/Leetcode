@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekGoyal274/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekGoyal274/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1340-jump-game-v](https://github.com/abhishekGoyal274/Leetcode/tree/master/1340-jump-game-v) |
+| [1732-find-the-highest-altitude](https://github.com/abhishekGoyal274/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekGoyal274/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/abhishekGoyal274/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishekGoyal274/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -143,6 +144,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/abhishekGoyal274/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekGoyal274/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
