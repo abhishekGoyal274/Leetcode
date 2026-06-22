@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/abhishekGoyal274/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/abhishekGoyal274/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhishekGoyal274/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekGoyal274/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -64,6 +65,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/abhishekGoyal274/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekGoyal274/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/abhishekGoyal274/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishekGoyal274/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -158,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekGoyal274/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/abhishekGoyal274/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
