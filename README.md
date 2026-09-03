@@ -26,6 +26,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/abhishekGoyal274/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishekGoyal274/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhishekGoyal274/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
